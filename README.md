@@ -1,1 +1,1 @@
-# ML-Spam-Ham-classificaiton
+# ML-Spam-Ham classificaiton
