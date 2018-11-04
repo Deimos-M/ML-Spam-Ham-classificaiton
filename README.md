@@ -14,6 +14,6 @@ This repository contains the code to classify whether a mail is a spam mail or a
 * BOW
 * TFIDF
 
-- One can use several other advance algorithms but these basic algorithms produces optimal solution too . You can further deploy this code to create a basic software . 
+One can use several other advance algorithms but these basic algorithms produces optimal solution too . You can further deploy this code to create a basic software . 
 
 # HAPPY CODING ;)
